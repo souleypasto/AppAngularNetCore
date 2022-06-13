@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WuWfpn/BfKPdnOEMpTdsqVjNCDSAlvR+JCGsNQq+dzMlC1gMcZdQEpI32T2DJfqhHbJylEHf7eZT15/g27yVGw==",
+  "dgSpecHash": "+5qRJEbPSpVOns+jP2BguV1o5IxktQB8UH7Tx/L+tD6BB70YjmEa/gYN6c9A9B2c8LixBNV9Uie3nYKYaKKayg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sillery TALLA\\Documents\\GitHub\\AppAngularNetCore\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Sillery TALLA\\Documents\\GitHub\\AppAngularNetCoreV1\\AppAngularNetCore\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sillery TALLA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sillery TALLA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

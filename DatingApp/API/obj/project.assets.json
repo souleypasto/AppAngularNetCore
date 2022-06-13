@@ -5902,11 +5902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sillery TALLA\\Documents\\GitHub\\AppAngularNetCore\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Sillery TALLA\\Documents\\GitHub\\AppAngularNetCoreV1\\AppAngularNetCore\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Sillery TALLA\\Documents\\GitHub\\AppAngularNetCore\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Sillery TALLA\\Documents\\GitHub\\AppAngularNetCoreV1\\AppAngularNetCore\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Sillery TALLA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sillery TALLA\\Documents\\GitHub\\AppAngularNetCore\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\Sillery TALLA\\Documents\\GitHub\\AppAngularNetCoreV1\\AppAngularNetCore\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
