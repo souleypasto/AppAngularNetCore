@@ -6,6 +6,12 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using API.Data;
+using API.Interfaces;
+using API.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using API.Extensions;
 
 namespace API
 {
@@ -22,12 +28,13 @@ namespace API
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddDbContext<DataContext>(options => 
-                options.UseSqlServer(Configuration.GetConnectionString("defaultConnection")));
+            services.AddApplicationServices(Configuration);
             
             services.AddControllers();
 
             services.AddCors();
+
+            services.AddIdentityServices(Configuration);
             
             services.AddSwaggerGen(c =>
             {
